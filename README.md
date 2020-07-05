@@ -6,6 +6,7 @@ This repository is for showing how Git and GitHub work and how to use git and gi
 The purpose is to show differents parts of the Git repository and various commands using a web project.
 
 ## Deployment
+Deployment has not bee done yet
 
 ## How to Contribute
 
