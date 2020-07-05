@@ -1,2 +1,2 @@
 unwanted.txt
-*.log
+log/
