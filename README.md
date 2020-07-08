@@ -6,8 +6,11 @@ This repository is for showing how Git and GitHub work and how to use git and gi
 The purpose is to show differents parts of the Git repository and various commands using a web project.
 
 ## Deployment
-Deployment has not beeN done yet. We're still practicing
+Deployment has not been done yet. We're still practicing
 
 ## How to Contribute
 
 Sample website with plenty of files for demos
+
+### Copyright
+2020 Git.Training.
