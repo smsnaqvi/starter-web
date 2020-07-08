@@ -9,6 +9,7 @@ The purpose is to show differents parts of the Git repository and various comman
 Deployment has not been done yet. We're still practicing
 
 ## How to Contribute
+Please fork this repository and then issue Pull request for review.
 
 Sample website with plenty of files for demos
 
