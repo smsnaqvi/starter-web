@@ -14,5 +14,7 @@ Please fork this repository and then issue Pull request for review.
 
 Sample website with plenty of files for demos
 
+## Emergency fix post stash
+
 ### Copyright
 2020 Git.Training. ALL RIGHTS RESERVED
